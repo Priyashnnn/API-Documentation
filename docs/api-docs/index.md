@@ -5,7 +5,7 @@ layout: default
 ---
 ### Overview 
 
-This section should contain an overview of the data provided and the API purpose.
+This section should explain the purpose and uses of an API. 
 
 
 ##### Using the API
